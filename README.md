@@ -1,3 +1,4 @@
-The Google Drive link contains the script and the zip file contains the executable file.
+The Google Drive link contains the script and the zip file within the repository contains the executable file.
+https://drive.google.com/drive/folders/17iCg7JaF7YMagsgsh3nUIJrbxd6tTYHP?usp=sharing
 
-This software creates a key-based randomized encryption to store a target text very efficiently within an image. The resulting encrypted image contains the message which can only be decrypted through the decryption service within the software.
+This software creates a key-based randomized encryption to store a target text very efficiently within an image. By encoding characters from the message to differences in "random" rgb values, the resulting encrypted image contains the text while not appearing altered. This effect works better the larger the image as the slight alterations are visually lost in the resolution and if scrutinized, seem like compression artifacts. The text can be displayed by inputting the encrypted image into the decryption section of the software.
