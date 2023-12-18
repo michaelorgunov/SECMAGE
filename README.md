@@ -1,7 +1,3 @@
-### Github Tutorial
+The Google Drive link contains the script and the zip file contains the executable file.
 
-####1. [How to Host Files on Github](http://www.labnol.org/internet/free-file-hosting-github/29092/)
-
-####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
-
-Append ?raw=true to any file URL on Github to get the direct link.
+This software creates a key-based randomized encryption to store a target text very efficiently within an image. The resulting encrypted image contains the message which can only be decrypted through the decryption service within the software.
